@@ -10,7 +10,7 @@ Usimg Art's transpose macro to with two unsorted tables
     SAS Forum                                                                                                                      
     https://communities.sas.com/t5/SAS-Programming/transposing-data/m-p/571334                                                     
                                                                                                                                    
-    Tranpose macro                                                                                                                 
+    Transpose macro                                                                                                                 
     AUTHORS: Arthur Tabachneck, Xia Ke Shan, Robert Virgile and Joe Whitehurst                                                     
                                                                                                                                    
     macros                                                                                                                         
